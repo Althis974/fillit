@@ -1,6 +1,6 @@
 # FILLIT
 
-# Introduction
+## Introduction
 
 Fillit est un projet vous permettant de decouvrir et/ou de vous familiariser avec
 une problematique récurrente en programmation : la recherche d’une solution optimale
@@ -10,7 +10,7 @@ possible pouvant les acueillir.
 Un Tetriminos est une figure géométrique formée de 4 blocs que vous connaissez
 grâce au célèbre jeu Tetris.
 
-# Objectifs
+## Objectifs
 
 Fillit ne consiste pas à recoder Tetris, mais reste une variante du jeu dans l’esprit.
 Votre programme prendra en paramètre un fichier décrivant une liste de Tetriminos
